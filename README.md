@@ -1,2 +1,2 @@
 # tusl
-Prueba comunidad de software libre
+Prueba Comunidad de Software Libre
